@@ -1,0 +1,5 @@
+SYNTHETIC DEMO POLICY / 11 October 2026
+Minimum gross margin: 35%.
+Maximum discount: 15%.
+Marketing advertising budget: INR 1500.
+These are prototype constraints, not an actual retailer policy.

@@ -1,0 +1,31 @@
+sku,name,stock,price,cost,daily_sales,elasticity,competitor_price,segment,ad_cost
+SKU001,Chinos 01,87,650,279.5,3,3.3,572.0,Working professionals,150
+SKU002,Summer Shirt 02,94,800,384.0,4,4.1,768.0,Family shoppers,200
+SKU003,Casual Shorts 03,101,950,503.5,5,2.5,988.0,Students,250
+SKU004,Linen Top 04,108,1100,418.0,6,3.3,1232.0,Working professionals,100
+SKU005,Cotton Tee 05,115,1250,537.5,7,4.1,1000.0,Family shoppers,150
+SKU006,Chinos 06,122,1400,672.0,8,2.5,1232.0,Students,200
+SKU007,Summer Shirt 07,129,1550,821.5,2,3.3,1488.0,Working professionals,250
+SKU008,Casual Shorts 08,136,500,190.0,3,4.1,520.0,Family shoppers,100
+SKU009,Linen Top 09,143,650,279.5,4,2.5,728.0,Students,150
+SKU010,Cotton Tee 10,150,800,384.0,5,3.3,640.0,Working professionals,200
+SKU011,Chinos 11,157,950,503.5,6,4.1,836.0,Family shoppers,250
+SKU012,Summer Shirt 12,164,1100,418.0,7,2.5,1056.0,Students,100
+SKU013,Casual Shorts 13,171,1250,537.5,8,3.3,1300.0,Working professionals,150
+SKU014,Linen Top 14,178,1400,672.0,2,4.1,1568.0,Family shoppers,200
+SKU015,Cotton Tee 15,185,1550,821.5,3,2.5,1240.0,Students,250
+SKU016,Chinos 16,192,500,190.0,4,3.3,440.0,Working professionals,100
+SKU017,Summer Shirt 17,199,650,279.5,5,4.1,624.0,Family shoppers,150
+SKU018,Casual Shorts 18,206,800,384.0,6,2.5,832.0,Students,200
+SKU019,Linen Top 19,213,950,503.5,7,3.3,1064.0,Working professionals,250
+SKU020,Cotton Tee 20,220,1100,418.0,8,4.1,880.0,Family shoppers,100
+SKU021,Chinos 21,227,1250,537.5,2,2.5,1100.0,Students,150
+SKU022,Summer Shirt 22,234,1400,672.0,3,3.3,1344.0,Working professionals,200
+SKU023,Casual Shorts 23,241,1550,821.5,4,4.1,1612.0,Family shoppers,250
+SKU024,Linen Top 24,248,500,190.0,5,2.5,560.0,Students,100
+SKU025,Cotton Tee 25,255,650,279.5,6,3.3,520.0,Working professionals,150
+SKU026,Chinos 26,262,800,384.0,7,4.1,704.0,Family shoppers,200
+SKU027,Summer Shirt 27,269,950,503.5,8,2.5,912.0,Students,250
+SKU028,Casual Shorts 28,276,1100,418.0,2,3.3,1144.0,Working professionals,100
+SKU029,Linen Top 29,283,1250,537.5,3,4.1,1400.0,Family shoppers,150
+SKU030,Cotton Tee 30,290,1400,672.0,4,2.5,1120.0,Students,200

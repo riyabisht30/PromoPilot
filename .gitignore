@@ -1,0 +1,14 @@
+.streamlit/secrets.toml
+.env
+.venv/
+__pycache__/
+*.pyc
+.env.*
+!.env.example
+.pytest_cache/
+submission/*Handoff.zip
+submission/GITHUB_MANIFEST.json
+submission/PromoPilot_Pitch_Draft.pptx
+audit/brief_pages/
+output/**/*preview.png
+6ab20c4818adf_et_hackathon_detailed_problem_statements_branded.pdf

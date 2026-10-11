@@ -1,0 +1,3 @@
+sku,name,stock,price,cost,daily_sales,elasticity,competitor_price,segment,ad_cost
+SKU001,Chinos 01,87,650,279.5,3,3.3,572.0,Working professionals,150
+SKU002,Summer Shirt 02,94,800,384.0,4,4.1,768.0,Family shoppers,200
